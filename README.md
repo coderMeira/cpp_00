@@ -1,1 +1,1 @@
-(cpp00_subject.pdf)
+![This is an image](./cpp00_subject.pdf)
